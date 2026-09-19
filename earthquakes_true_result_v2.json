@@ -1,0 +1,6157 @@
+{
+  "total": 50,
+  "items": [
+    {
+      "index": 1,
+      "input_text": "北京时间2026年6月15日11时24分内蒙古巴彦淖尔市临河区（北纬40.72度，东经107.35度）发生3.0级地震，震源深度10千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "内蒙古巴彦淖尔市临河区",
+            "lat": 40.72,
+            "lon": 107.35,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-06-15T03:21:00Z",
+              "end_time": "2026-06-15T03:27:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.0
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "内蒙古巴彦淖尔市临河区",
+            "lat": 40.72,
+            "lon": 107.35,
+            "fact_type": "magnitude",
+            "polarity": "null",
+            "operator": "eq",
+            "value": 3.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-06-15T03:21:00Z",
+              "end_time": "2026-06-15T03:27:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "内蒙古巴彦淖尔市临河区",
+            "lat": 40.72,
+            "lon": 107.35,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-06-15T03:24:00Z",
+              "end_time": "2026-06-15T03:24:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.0
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "内蒙古巴彦淖尔市临河区",
+            "lat": 40.72,
+            "lon": 107.35,
+            "fact_type": "magnitude",
+            "polarity": "null",
+            "operator": "eq",
+            "value": 3.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-06-15T03:24:00Z",
+              "end_time": "2026-06-15T03:24:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 2,
+      "input_text": "北京时间2026年6月15日10时23分西藏昌都市洛隆县（北纬30.76度，东经96.24度）发生3.1级地震，震源深度10千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "西藏昌都市洛隆县",
+            "lat": 30.76,
+            "lon": 96.24,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-06-15T02:20:00Z",
+              "end_time": "2026-06-15T02:26:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.1
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "西藏昌都市洛隆县",
+            "lat": 30.76,
+            "lon": 96.24,
+            "fact_type": "magnitude",
+            "polarity": "null",
+            "operator": "eq",
+            "value": 3.1,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-06-15T02:20:00Z",
+              "end_time": "2026-06-15T02:26:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "西藏昌都市洛隆县",
+            "lat": 30.76,
+            "lon": 96.24,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-06-15T02:23:00Z",
+              "end_time": "2026-06-15T02:23:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.1
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "西藏昌都市洛隆县",
+            "lat": 30.76,
+            "lon": 96.24,
+            "fact_type": "magnitude",
+            "polarity": "null",
+            "operator": "eq",
+            "value": 3.1,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-06-15T02:23:00Z",
+              "end_time": "2026-06-15T02:23:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 3,
+      "input_text": "北京时间2026年6月15日1时13分陕西渭南市合阳县（北纬35.22度，东经110.3度）发生4.1级地震，震源深度14千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "陕西渭南市合阳县",
+            "lat": 35.22,
+            "lon": 110.3,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-06-14T17:10:00Z",
+              "end_time": "2026-06-14T17:16:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.1,
+            "admin": {
+              "province": "陕西省",
+              "city": "合阳县",
+              "district": "",
+              "adcode": "",
+              "standard_name": "陕西省合阳县",
+              "source": "nominatim"
+            },
+            "standard_location": "陕西省合阳县"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2026-06-14T17:13:41Z",
+              "magnitude": 4.4,
+              "place_raw": "17 km W of Hancheng, China",
+              "place_zh": "陕西省渭南市韩城市",
+              "distance_km": 25.2,
+              "place_match": "同省附近",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "陕西渭南市合阳县",
+            "lat": 35.22,
+            "lon": 110.3,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 4.1,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-06-14T17:10:00Z",
+              "end_time": "2026-06-14T17:16:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "陕西省",
+              "city": "合阳县",
+              "district": "",
+              "adcode": "",
+              "standard_name": "陕西省合阳县",
+              "source": "nominatim"
+            },
+            "standard_location": "陕西省合阳县"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.4,
+          "operator": "eq",
+          "expected_value": 4.1,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2026-06-14T17:13:41Z",
+              "magnitude": 4.4,
+              "place_raw": "17 km W of Hancheng, China",
+              "place_zh": "陕西省渭南市韩城市",
+              "distance_km": 25.2,
+              "place_match": "同省附近",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "陕西渭南市合阳县",
+            "lat": 35.22,
+            "lon": 110.3,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-06-14T17:13:00Z",
+              "end_time": "2026-06-14T17:13:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.1
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "陕西渭南市合阳县",
+            "lat": 35.22,
+            "lon": 110.3,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 4.1,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-06-14T17:13:00Z",
+              "end_time": "2026-06-14T17:13:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 4,
+      "input_text": "北京时间2026年6月13日9时54分新疆巴音郭楞州尉犁县（北纬40.88度，东经84.12度）发生3.4级地震，震源深度26千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆巴音郭楞州尉犁县",
+            "lat": 40.88,
+            "lon": 84.12,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-06-13T01:51:00Z",
+              "end_time": "2026-06-13T01:57:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.4
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆巴音郭楞州尉犁县",
+            "lat": 40.88,
+            "lon": 84.12,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.4,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-06-13T01:51:00Z",
+              "end_time": "2026-06-13T01:57:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆巴音郭楞州尉犁县",
+            "lat": 40.88,
+            "lon": 84.12,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-06-13T01:54:00Z",
+              "end_time": "2026-06-13T01:54:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.4
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆巴音郭楞州尉犁县",
+            "lat": 40.88,
+            "lon": 84.12,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.4,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-06-13T01:54:00Z",
+              "end_time": "2026-06-13T01:54:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 5,
+      "input_text": "北京时间2026年6月11日14时24分内蒙古阿拉善盟阿拉善右旗（北纬39.26度，东经102.09度）发生3.7级地震，震源深度10千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "内蒙古阿拉善盟阿拉善右旗",
+            "lat": 39.26,
+            "lon": 102.09,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-06-11T06:21:00Z",
+              "end_time": "2026-06-11T06:27:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.7
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "内蒙古阿拉善盟阿拉善右旗",
+            "lat": 39.26,
+            "lon": 102.09,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 3.7,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-06-11T06:21:00Z",
+              "end_time": "2026-06-11T06:27:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "内蒙古阿拉善盟阿拉善右旗",
+            "lat": 39.26,
+            "lon": 102.09,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-06-11T06:24:00Z",
+              "end_time": "2026-06-11T06:24:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.7
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "内蒙古阿拉善盟阿拉善右旗",
+            "lat": 39.26,
+            "lon": 102.09,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 3.7,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-06-11T06:24:00Z",
+              "end_time": "2026-06-11T06:24:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 6,
+      "input_text": "北京时间2026年6月11日6时32分新疆吐鲁番市托克逊县（北纬43.19度，东经87.55度）发生3.0级地震，震源深度25千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆吐鲁番市托克逊县",
+            "lat": 43.19,
+            "lon": 87.55,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-06-10T22:29:00Z",
+              "end_time": "2026-06-10T22:35:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.0
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆吐鲁番市托克逊县",
+            "lat": 43.19,
+            "lon": 87.55,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 3.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-06-10T22:29:00Z",
+              "end_time": "2026-06-10T22:35:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆吐鲁番市托克逊县",
+            "lat": 43.19,
+            "lon": 87.55,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-06-10T22:29:00Z",
+              "end_time": "2026-06-10T22:35:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.0
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆吐鲁番市托克逊县",
+            "lat": 43.19,
+            "lon": 87.55,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 3.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-06-10T22:32:00Z",
+              "end_time": "2026-06-10T22:32:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "completed_claims": [
+            "occurrence"
+          ],
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 7,
+      "input_text": "北京时间2026年5月20日16时23分广西柳州市柳南区（北纬24.42度，东经109.28度）发生3.7级地震，震源深度5千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "广西柳州市柳南区",
+            "lat": 24.42,
+            "lon": 109.28,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-05-20T08:20:00Z",
+              "end_time": "2026-05-20T08:26:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.7
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "广西柳州市柳南区",
+            "lat": 24.42,
+            "lon": 109.28,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 3.7,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-05-20T08:20:00Z",
+              "end_time": "2026-05-20T08:26:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "广西柳州市柳南区",
+            "lat": 24.42,
+            "lon": 109.28,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-05-20T08:20:00Z",
+              "end_time": "2026-05-20T08:26:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.7
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "广西柳州市柳南区",
+            "lat": 24.42,
+            "lon": 109.28,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 3.7,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-05-20T08:23:00Z",
+              "end_time": "2026-05-20T08:23:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "completed_claims": [
+            "occurrence"
+          ],
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 8,
+      "input_text": "北京时间2026年5月1日20时39分台湾宜兰县海域（北纬24.88度，东经122.07度）发生5.4级地震，震源深度100千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾宜兰县海域",
+            "lat": 24.88,
+            "lon": 122.07,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-05-01T12:36:00Z",
+              "end_time": "2026-05-01T12:42:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 5.4,
+            "admin": {
+              "province": "",
+              "city": "",
+              "district": "",
+              "adcode": "",
+              "standard_name": "台湾",
+              "source": "nominatim"
+            },
+            "standard_location": "台湾"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2026-05-01T12:39:55Z",
+              "magnitude": 5.8,
+              "place_raw": "32 km ENE of Yilan, Taiwan",
+              "place_zh": "台湾",
+              "distance_km": 2.7,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾宜兰县海域",
+            "lat": 24.88,
+            "lon": 122.07,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 5.4,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-05-01T12:36:00Z",
+              "end_time": "2026-05-01T12:42:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "",
+              "city": "",
+              "district": "",
+              "adcode": "",
+              "standard_name": "台湾",
+              "source": "nominatim"
+            },
+            "standard_location": "台湾"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 5.8,
+          "operator": "eq",
+          "expected_value": 5.4,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2026-05-01T12:39:55Z",
+              "magnitude": 5.8,
+              "place_raw": "32 km ENE of Yilan, Taiwan",
+              "place_zh": "台湾",
+              "distance_km": 2.7,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾宜兰县海域",
+            "lat": 24.88,
+            "lon": 122.07,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-05-01T12:39:00Z",
+              "end_time": "2026-05-01T12:39:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 5.4
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾宜兰县海域",
+            "lat": 24.88,
+            "lon": 122.07,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 5.4,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-05-01T12:39:00Z",
+              "end_time": "2026-05-01T12:39:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 9,
+      "input_text": "北京时间2026年5月1日3时39分湖北荆州市监利市（北纬29.9度，东经112.67度）发生3.7级地震，震源深度8千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "湖北荆州市监利市",
+            "lat": 29.9,
+            "lon": 112.67,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-04-30T19:36:00Z",
+              "end_time": "2026-04-30T19:42:00Z"
+            },
+            "location_source": "input_text",
+            "value_max": null,
+            "reported_magnitude": 3.7,
+            "admin": {
+              "province": "湖北省",
+              "city": "监利市",
+              "district": "",
+              "adcode": "",
+              "standard_name": "湖北省监利市",
+              "source": "nominatim"
+            },
+            "standard_location": "湖北省监利市"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2026-04-30T19:39:49Z",
+              "magnitude": 4.4,
+              "place_raw": "27 km NE of Xiulin, China",
+              "place_zh": "湖北省石首市",
+              "distance_km": 10.6,
+              "place_match": "同省附近",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "湖北荆州市监利市",
+            "lat": 29.9,
+            "lon": 112.67,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 3.7,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-04-30T19:36:00Z",
+              "end_time": "2026-04-30T19:42:00Z"
+            },
+            "location_source": "input_text",
+            "value_max": null,
+            "admin": {
+              "province": "湖北省",
+              "city": "监利市",
+              "district": "",
+              "adcode": "",
+              "standard_name": "湖北省监利市",
+              "source": "nominatim"
+            },
+            "standard_location": "湖北省监利市"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.4,
+          "operator": "eq",
+          "expected_value": 3.7,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2026-04-30T19:39:49Z",
+              "magnitude": 4.4,
+              "place_raw": "27 km NE of Xiulin, China",
+              "place_zh": "湖北省石首市",
+              "distance_km": 10.6,
+              "place_match": "同省附近",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "contradicted"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "湖北荆州市监利市",
+            "lat": 29.9,
+            "lon": 112.67,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-04-30T19:36:00Z",
+              "end_time": "2026-04-30T19:42:00Z"
+            },
+            "location_source": "input_text",
+            "value_max": null,
+            "reported_magnitude": 3.7
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "湖北荆州市监利市",
+            "lat": 29.9,
+            "lon": 112.67,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 3.7,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-05-01T03:39:00Z",
+              "end_time": "2026-05-01T03:39:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "completed_claims": [
+            "occurrence"
+          ],
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 10,
+      "input_text": "北京时间2026年4月18日4时49分四川内江市资中县（北纬29.66度，东经104.84度）发生3.0级地震，震源深度6.0千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "四川内江市资中县",
+            "lat": 29.66,
+            "lon": 104.84,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-04-17T20:46:00Z",
+              "end_time": "2026-04-17T20:52:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.0
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "四川内江市资中县",
+            "lat": 29.66,
+            "lon": 104.84,
+            "fact_type": "magnitude",
+            "polarity": "null",
+            "operator": "eq",
+            "value": 3.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-04-17T20:46:00Z",
+              "end_time": "2026-04-17T20:52:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "四川内江市资中县",
+            "lat": 29.66,
+            "lon": 104.84,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-04-17T20:49:00Z",
+              "end_time": "2026-04-17T20:49:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.0
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "四川内江市资中县",
+            "lat": 29.66,
+            "lon": 104.84,
+            "fact_type": "magnitude",
+            "polarity": "null",
+            "operator": "eq",
+            "value": 3.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-04-17T20:49:00Z",
+              "end_time": "2026-04-17T20:49:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 11,
+      "input_text": "北京时间2026年3月12日20时14分在台湾花莲县（北纬23.78度，东经121.55度）发生5.3级地震，震源深度19千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾花莲县",
+            "lat": 23.78,
+            "lon": 121.55,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-03-12T12:11:00Z",
+              "end_time": "2026-03-12T12:17:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 5.3,
+            "admin": {
+              "province": "",
+              "city": "花莲县",
+              "district": "花莲县",
+              "adcode": "",
+              "standard_name": "花莲县",
+              "source": "nominatim"
+            },
+            "standard_location": "花莲县"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2026-03-12T12:14:13Z",
+              "magnitude": 5.1,
+              "place_raw": "28 km S of Hualien City, Taiwan",
+              "place_zh": "台湾",
+              "distance_km": 7.7,
+              "place_match": "地名不一致",
+              "place_warning": "输入地点与USGS事件行政区不一致，请结合距离人工复核"
+            }
+          ],
+          "status": "supported",
+          "warnings": [
+            "输入地点与USGS事件行政区不一致，请结合距离人工复核"
+          ]
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾花莲县",
+            "lat": 23.78,
+            "lon": 121.55,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 5.3,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-03-12T12:11:00Z",
+              "end_time": "2026-03-12T12:17:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "",
+              "city": "花莲县",
+              "district": "花莲县",
+              "adcode": "",
+              "standard_name": "花莲县",
+              "source": "nominatim"
+            },
+            "standard_location": "花莲县"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 5.1,
+          "operator": "eq",
+          "expected_value": 5.3,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2026-03-12T12:14:13Z",
+              "magnitude": 5.1,
+              "place_raw": "28 km S of Hualien City, Taiwan",
+              "place_zh": "台湾",
+              "distance_km": 7.7,
+              "place_match": "地名不一致",
+              "place_warning": "输入地点与USGS事件行政区不一致，请结合距离人工复核"
+            }
+          ],
+          "warnings": [
+            "输入地点与USGS事件行政区不一致，请结合距离人工复核"
+          ],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾花莲县",
+            "lat": 23.78,
+            "lon": 121.55,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2026-03-12T12:14:00Z",
+              "end_time": "2026-03-12T12:14:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 5.3
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾花莲县",
+            "lat": 23.78,
+            "lon": 121.55,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 5.3,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-03-12T12:14:00Z",
+              "end_time": "2026-03-12T12:14:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 12,
+      "input_text": "北京时间2009年5月21日20时33分在新疆维吾尔自治区喀什地区叶城县、和田地区皮山县交界（北纬36.4度，东经77.6度）发生5.2级地震，震源深度10千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区喀什地区叶城县、和田地区皮山县交界",
+            "lat": 36.4,
+            "lon": 77.6,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2009-05-21T12:30:00Z",
+              "end_time": "2009-05-21T12:36:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 5.2,
+            "admin": {
+              "province": "新疆维吾尔自治区",
+              "city": "岑岭县",
+              "district": "宝玉镇",
+              "adcode": "",
+              "standard_name": "新疆维吾尔自治区岑岭县宝玉镇",
+              "source": "nominatim"
+            },
+            "standard_location": "新疆维吾尔自治区岑岭县宝玉镇"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2009-05-21T12:33:55Z",
+              "magnitude": 5.1,
+              "place_raw": "157 km SW of Zangguy, China",
+              "place_zh": "新疆维吾尔自治区岑岭县宝玉镇",
+              "distance_km": 15.8,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区喀什地区叶城县、和田地区皮山县交界",
+            "lat": 36.4,
+            "lon": 77.6,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 5.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2009-05-21T12:30:00Z",
+              "end_time": "2009-05-21T12:36:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "新疆维吾尔自治区",
+              "city": "岑岭县",
+              "district": "宝玉镇",
+              "adcode": "",
+              "standard_name": "新疆维吾尔自治区岑岭县宝玉镇",
+              "source": "nominatim"
+            },
+            "standard_location": "新疆维吾尔自治区岑岭县宝玉镇"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 5.1,
+          "operator": "eq",
+          "expected_value": 5.2,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2009-05-21T12:33:55Z",
+              "magnitude": 5.1,
+              "place_raw": "157 km SW of Zangguy, China",
+              "place_zh": "新疆维吾尔自治区岑岭县宝玉镇",
+              "distance_km": 15.8,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区喀什地区叶城县、和田地区皮山县交界",
+            "lat": 36.4,
+            "lon": 77.6,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2009-05-21T12:33:00Z",
+              "end_time": "2009-05-21T12:33:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 5.2
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区喀什地区叶城县、和田地区皮山县交界",
+            "lat": 36.4,
+            "lon": 77.6,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 5.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2009-05-21T12:33:00Z",
+              "end_time": "2009-05-21T12:33:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 13,
+      "input_text": "北京时间2009年5月10日22时47分在黑龙江省绥化市安达市（北纬46.8度，东经125.3度）发生4.5级地震，震源深度10千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "黑龙江省绥化市安达市",
+            "lat": 46.8,
+            "lon": 125.3,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2009-05-10T14:44:00Z",
+              "end_time": "2009-05-10T14:50:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.5,
+            "admin": {
+              "province": "黑龙江省",
+              "city": "绥化市",
+              "district": "安达市",
+              "adcode": "",
+              "standard_name": "黑龙江省绥化市安达市",
+              "source": "nominatim"
+            },
+            "standard_location": "黑龙江省绥化市安达市"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2009-05-10T14:47:44Z",
+              "magnitude": 4.5,
+              "place_raw": "25 km NNE of Daqing, China",
+              "place_zh": "黑龙江省拥军街道萨尔图区",
+              "distance_km": 13.8,
+              "place_match": "同省附近",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "黑龙江省绥化市安达市",
+            "lat": 46.8,
+            "lon": 125.3,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 4.5,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2009-05-10T14:44:00Z",
+              "end_time": "2009-05-10T14:50:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "黑龙江省",
+              "city": "绥化市",
+              "district": "安达市",
+              "adcode": "",
+              "standard_name": "黑龙江省绥化市安达市",
+              "source": "nominatim"
+            },
+            "standard_location": "黑龙江省绥化市安达市"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.5,
+          "operator": "eq",
+          "expected_value": 4.5,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2009-05-10T14:47:44Z",
+              "magnitude": 4.5,
+              "place_raw": "25 km NNE of Daqing, China",
+              "place_zh": "黑龙江省拥军街道萨尔图区",
+              "distance_km": 13.8,
+              "place_match": "同省附近",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "黑龙江省绥化市安达市",
+            "lat": 46.8,
+            "lon": 125.3,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2009-05-10T14:44:00Z",
+              "end_time": "2009-05-10T14:50:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.5
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "黑龙江省绥化市安达市",
+            "lat": 46.8,
+            "lon": 125.3,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 4.5,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2009-05-10T14:47:00Z",
+              "end_time": "2009-05-10T14:47:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "completed_claims": [
+            "occurrence"
+          ],
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 14,
+      "input_text": "北京时间2009年7月30日0时53分在台湾屏东海域（北纬22.1度，东经120.3度）发生5.3级地震，震源深度10千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾屏东海域",
+            "lat": 22.1,
+            "lon": 120.3,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2009-07-29T16:50:00Z",
+              "end_time": "2009-07-29T16:56:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 5.3,
+            "admin": {
+              "province": "",
+              "city": "",
+              "district": "",
+              "adcode": "",
+              "standard_name": "台湾",
+              "source": "nominatim"
+            },
+            "standard_location": "台湾"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2009-07-29T16:53:03Z",
+              "magnitude": 5.4,
+              "place_raw": "30 km W of Hengchun, Taiwan",
+              "place_zh": "台湾",
+              "distance_km": 19.9,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾屏东海域",
+            "lat": 22.1,
+            "lon": 120.3,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 5.3,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2009-07-29T16:50:00Z",
+              "end_time": "2009-07-29T16:56:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "",
+              "city": "",
+              "district": "",
+              "adcode": "",
+              "standard_name": "台湾",
+              "source": "nominatim"
+            },
+            "standard_location": "台湾"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 5.4,
+          "operator": "eq",
+          "expected_value": 5.3,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2009-07-29T16:53:03Z",
+              "magnitude": 5.4,
+              "place_raw": "30 km W of Hengchun, Taiwan",
+              "place_zh": "台湾",
+              "distance_km": 19.9,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾屏东海域",
+            "lat": 22.1,
+            "lon": 120.3,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2009-07-29T16:53:00Z",
+              "end_time": "2009-07-29T16:53:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 5.3
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾屏东海域",
+            "lat": 22.1,
+            "lon": 120.3,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 5.3,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2009-07-29T16:53:00Z",
+              "end_time": "2009-07-29T16:53:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 15,
+      "input_text": "北京时间2018年7月23日7时2分在四川内江市威远县（北纬29.55度，东经104.55度）发生4.2级地震，震源深度14千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "四川内江市威远县",
+            "lat": 29.55,
+            "lon": 104.55,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2018-07-22T22:59:00Z",
+              "end_time": "2018-07-22T23:05:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.2,
+            "admin": {
+              "province": "四川省",
+              "city": "威远县",
+              "district": "威远县",
+              "adcode": "",
+              "standard_name": "四川省威远县",
+              "source": "nominatim"
+            },
+            "standard_location": "四川省威远县"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2018-07-22T23:02:03Z",
+              "magnitude": 4.7,
+              "place_raw": "29 km NW of Zigong, China",
+              "place_zh": "四川省威远县",
+              "distance_km": 3.1,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "四川内江市威远县",
+            "lat": 29.55,
+            "lon": 104.55,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 4.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2018-07-22T22:59:00Z",
+              "end_time": "2018-07-22T23:05:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "四川省",
+              "city": "威远县",
+              "district": "威远县",
+              "adcode": "",
+              "standard_name": "四川省威远县",
+              "source": "nominatim"
+            },
+            "standard_location": "四川省威远县"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.7,
+          "operator": "eq",
+          "expected_value": 4.2,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2018-07-22T23:02:03Z",
+              "magnitude": 4.7,
+              "place_raw": "29 km NW of Zigong, China",
+              "place_zh": "四川省威远县",
+              "distance_km": 3.1,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "四川内江市威远县",
+            "lat": 29.55,
+            "lon": 104.55,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2018-07-22T23:02:00Z",
+              "end_time": "2018-07-22T23:02:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.2
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "四川内江市威远县",
+            "lat": 29.55,
+            "lon": 104.55,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 4.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2018-07-22T23:02:00Z",
+              "end_time": "2018-07-22T23:02:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 16,
+      "input_text": "北京时间2018年8月9日16时1分在台湾屏东县海域（北纬20.98度，东经119.96度）发生4.7级地震，震源深度15千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾屏东县海域",
+            "lat": 20.98,
+            "lon": 119.96,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2018-08-09T07:58:00Z",
+              "end_time": "2018-08-09T08:04:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.7
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2018-08-09T08:01:31Z",
+              "magnitude": 5,
+              "place_raw": "138 km SSW of Hengchun, Taiwan",
+              "place_zh": "无法解析",
+              "distance_km": 12.8,
+              "place_match": "无法解析",
+              "place_warning": "输入地点或USGS事件地点无法解析为中文行政区"
+            }
+          ],
+          "status": "supported",
+          "warnings": [
+            "输入地点或USGS事件地点无法解析为中文行政区"
+          ]
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾屏东县海域",
+            "lat": 20.98,
+            "lon": 119.96,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 4.7,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2018-08-09T07:58:00Z",
+              "end_time": "2018-08-09T08:04:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 5.0,
+          "operator": "eq",
+          "expected_value": 4.7,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2018-08-09T08:01:31Z",
+              "magnitude": 5,
+              "place_raw": "138 km SSW of Hengchun, Taiwan",
+              "place_zh": "无法解析",
+              "distance_km": 12.8,
+              "place_match": "无法解析",
+              "place_warning": "输入地点或USGS事件地点无法解析为中文行政区"
+            }
+          ],
+          "warnings": [
+            "输入地点或USGS事件地点无法解析为中文行政区"
+          ],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾屏东县海域",
+            "lat": 20.98,
+            "lon": 119.96,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2018-08-09T08:01:00Z",
+              "end_time": "2018-08-09T08:01:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.7
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾屏东县海域",
+            "lat": 20.98,
+            "lon": 119.96,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 4.7,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2018-08-09T08:01:00Z",
+              "end_time": "2018-08-09T08:01:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 17,
+      "input_text": "北京时间2018年8月3日9时34分在青海玉树州治多县（北纬34.9度，东经92.33度）发生5.1级地震，震源深度10千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "青海玉树州治多县",
+            "lat": 34.9,
+            "lon": 92.33,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2018-08-03T01:31:00Z",
+              "end_time": "2018-08-03T01:37:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 5.1,
+            "admin": {
+              "province": "青海省",
+              "city": "治多县",
+              "district": "治多县",
+              "adcode": "",
+              "standard_name": "青海省治多县",
+              "source": "nominatim"
+            },
+            "standard_location": "青海省治多县"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2018-08-03T01:34:22Z",
+              "magnitude": 5.2,
+              "place_raw": "Southern Qinghai, China",
+              "place_zh": "青海省治多县",
+              "distance_km": 16.4,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "青海玉树州治多县",
+            "lat": 34.9,
+            "lon": 92.33,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 5.1,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2018-08-03T01:31:00Z",
+              "end_time": "2018-08-03T01:37:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "青海省",
+              "city": "治多县",
+              "district": "治多县",
+              "adcode": "",
+              "standard_name": "青海省治多县",
+              "source": "nominatim"
+            },
+            "standard_location": "青海省治多县"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 5.2,
+          "operator": "eq",
+          "expected_value": 5.1,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2018-08-03T01:34:22Z",
+              "magnitude": 5.2,
+              "place_raw": "Southern Qinghai, China",
+              "place_zh": "青海省治多县",
+              "distance_km": 16.4,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "青海玉树州治多县",
+            "lat": 34.9,
+            "lon": 92.33,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2018-08-03T01:34:00Z",
+              "end_time": "2018-08-03T01:34:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 5.1
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "青海玉树州治多县",
+            "lat": 34.9,
+            "lon": 92.33,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 5.1,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2018-08-03T01:34:00Z",
+              "end_time": "2018-08-03T01:34:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 18,
+      "input_text": "北京时间2018年8月14日3时50分在云南玉溪市通海县（北纬24.19度，东经102.71度）发生5级地震，震源深度6千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "云南玉溪市通海县",
+            "lat": 24.19,
+            "lon": 102.71,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2018-08-13T19:47:00Z",
+              "end_time": "2018-08-13T19:53:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 5.0,
+            "admin": {
+              "province": "云南省",
+              "city": "玉溪市",
+              "district": "通海县",
+              "adcode": "",
+              "standard_name": "云南省玉溪市通海县",
+              "source": "nominatim"
+            },
+            "standard_location": "云南省玉溪市通海县"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2018-08-13T19:50:38Z",
+              "magnitude": 4.9,
+              "place_raw": "37 km ESE of Yuxi, China",
+              "place_zh": "云南省华宁县",
+              "distance_km": 16.0,
+              "place_match": "同省附近",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "云南玉溪市通海县",
+            "lat": 24.19,
+            "lon": 102.71,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 5.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2018-08-13T19:47:00Z",
+              "end_time": "2018-08-13T19:53:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "云南省",
+              "city": "玉溪市",
+              "district": "通海县",
+              "adcode": "",
+              "standard_name": "云南省玉溪市通海县",
+              "source": "nominatim"
+            },
+            "standard_location": "云南省玉溪市通海县"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.9,
+          "operator": "eq",
+          "expected_value": 5.0,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2018-08-13T19:50:38Z",
+              "magnitude": 4.9,
+              "place_raw": "37 km ESE of Yuxi, China",
+              "place_zh": "云南省华宁县",
+              "distance_km": 16.0,
+              "place_match": "同省附近",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "云南玉溪市通海县",
+            "lat": 24.19,
+            "lon": 102.71,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2018-08-13T19:50:00Z",
+              "end_time": "2018-08-13T19:50:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 5.0
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "云南玉溪市通海县",
+            "lat": 24.19,
+            "lon": 102.71,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 5.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2018-08-13T19:50:00Z",
+              "end_time": "2018-08-13T19:50:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 19,
+      "input_text": "北京时间2018年8月17日18时9分在台湾南投县（北纬24.02度，东经121.03度）发生4.5级地震，震源深度19千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾南投县",
+            "lat": 24.02,
+            "lon": 121.03,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2018-08-17T10:06:00Z",
+              "end_time": "2018-08-17T10:12:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.5,
+            "admin": {
+              "province": "",
+              "city": "南投县",
+              "district": "南投县",
+              "adcode": "",
+              "standard_name": "南投县",
+              "source": "nominatim"
+            },
+            "standard_location": "南投县"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2018-08-17T10:09:40Z",
+              "magnitude": 4.5,
+              "place_raw": "10 km N of Puli, Taiwan",
+              "place_zh": "南投县",
+              "distance_km": 8.7,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾南投县",
+            "lat": 24.02,
+            "lon": 121.03,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 4.5,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2018-08-17T10:06:00Z",
+              "end_time": "2018-08-17T10:12:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "",
+              "city": "南投县",
+              "district": "南投县",
+              "adcode": "",
+              "standard_name": "南投县",
+              "source": "nominatim"
+            },
+            "standard_location": "南投县"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.5,
+          "operator": "eq",
+          "expected_value": 4.5,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2018-08-17T10:09:40Z",
+              "magnitude": 4.5,
+              "place_raw": "10 km N of Puli, Taiwan",
+              "place_zh": "南投县",
+              "distance_km": 8.7,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾南投县",
+            "lat": 24.02,
+            "lon": 121.03,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2018-08-17T10:06:00Z",
+              "end_time": "2018-08-17T10:12:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.5
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾南投县",
+            "lat": 24.02,
+            "lon": 121.03,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 4.5,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2018-08-17T10:09:00Z",
+              "end_time": "2018-08-17T10:09:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "completed_claims": [
+            "occurrence"
+          ],
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 20,
+      "input_text": "北京时间2023年1月26日4时57分在四川甘孜州泸定县（北纬29.65度，东经101.98度）发生4级地震，震源深度10千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "四川甘孜州泸定县",
+            "lat": 29.65,
+            "lon": 101.98,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-01-25T20:54:00Z",
+              "end_time": "2023-01-25T21:00:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.0,
+            "admin": {
+              "province": "四川省",
+              "city": "泸定县",
+              "district": "泸定县",
+              "adcode": "",
+              "standard_name": "四川省泸定县",
+              "source": "nominatim"
+            },
+            "standard_location": "四川省泸定县"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2023-01-25T20:57:21Z",
+              "magnitude": 4.3,
+              "place_raw": "53 km SSE of Kangding, China",
+              "place_zh": "四川省泸定县",
+              "distance_km": 20.6,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "四川甘孜州泸定县",
+            "lat": 29.65,
+            "lon": 101.98,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 4.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-01-25T20:54:00Z",
+              "end_time": "2023-01-25T21:00:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "四川省",
+              "city": "泸定县",
+              "district": "泸定县",
+              "adcode": "",
+              "standard_name": "四川省泸定县",
+              "source": "nominatim"
+            },
+            "standard_location": "四川省泸定县"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.3,
+          "operator": "eq",
+          "expected_value": 4.0,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2023-01-25T20:57:21Z",
+              "magnitude": 4.3,
+              "place_raw": "53 km SSE of Kangding, China",
+              "place_zh": "四川省泸定县",
+              "distance_km": 20.6,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "四川甘孜州泸定县",
+            "lat": 29.65,
+            "lon": 101.98,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-01-26T20:57:00Z",
+              "end_time": "2023-01-26T20:57:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.0
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "四川甘孜州泸定县",
+            "lat": 29.65,
+            "lon": 101.98,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 4.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-01-26T20:57:00Z",
+              "end_time": "2023-01-26T20:57:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 21,
+      "input_text": "北京时间2023年10月5日1时52分在新疆阿克苏地区沙雅县（北纬40.19度，东经83.12度）发生3.2级地震，震源深度24千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆阿克苏地区沙雅县",
+            "lat": 40.19,
+            "lon": 83.12,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-10-04T17:49:00Z",
+              "end_time": "2023-10-04T17:55:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.2
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆阿克苏地区沙雅县",
+            "lat": 40.19,
+            "lon": 83.12,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-10-04T17:49:00Z",
+              "end_time": "2023-10-04T17:55:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆阿克苏地区沙雅县",
+            "lat": 40.19,
+            "lon": 83.12,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-10-04T17:52:00Z",
+              "end_time": "2023-10-04T17:52:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.2
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆阿克苏地区沙雅县",
+            "lat": 40.19,
+            "lon": 83.12,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-10-04T17:52:00Z",
+              "end_time": "2023-10-04T17:52:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 22,
+      "input_text": "北京时间2023年5月4日15时53分在新疆阿克苏地区沙雅县（北纬40.8度，东经83.91度）发生3级地震，震源深度15千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆阿克苏地区沙雅县",
+            "lat": 40.8,
+            "lon": 83.91,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-05-04T07:50:00Z",
+              "end_time": "2023-05-04T07:56:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.0
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆阿克苏地区沙雅县",
+            "lat": 40.8,
+            "lon": 83.91,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-05-04T07:50:00Z",
+              "end_time": "2023-05-04T07:56:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆阿克苏地区沙雅县",
+            "lat": 40.8,
+            "lon": 83.91,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-05-04T07:53:00Z",
+              "end_time": "2023-05-04T07:53:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.0
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆阿克苏地区沙雅县",
+            "lat": 40.8,
+            "lon": 83.91,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-05-04T07:53:00Z",
+              "end_time": "2023-05-04T07:53:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 23,
+      "input_text": "北京时间2023年10月27日2时34分在青海海北州门源县（北纬37.74度，东经101.43度）发生3.3级地震，震源深度8千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "青海海北州门源县",
+            "lat": 37.74,
+            "lon": 101.43,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-10-26T18:31:00Z",
+              "end_time": "2023-10-26T18:37:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.3
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "青海海北州门源县",
+            "lat": 37.74,
+            "lon": 101.43,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.3,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-10-26T18:31:00Z",
+              "end_time": "2023-10-26T18:37:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "青海海北州门源县",
+            "lat": 37.74,
+            "lon": 101.43,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-10-26T18:34:00Z",
+              "end_time": "2023-10-26T18:34:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.3
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "青海海北州门源县",
+            "lat": 37.74,
+            "lon": 101.43,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.3,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-10-26T18:34:00Z",
+              "end_time": "2023-10-26T18:34:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 24,
+      "input_text": "北京时间2023年1月20日9时20分在新疆和田地区和田县（北纬35.84度，东经79.93度）发生3.2级地震，震源深度10千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆和田地区和田县",
+            "lat": 35.84,
+            "lon": 79.93,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-01-20T01:17:00Z",
+              "end_time": "2023-01-20T01:23:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.2,
+            "admin": {
+              "province": "新疆维吾尔自治区",
+              "city": "和田县",
+              "district": "和田县",
+              "adcode": "",
+              "standard_name": "新疆维吾尔自治区和田县",
+              "source": "nominatim"
+            },
+            "standard_location": "新疆维吾尔自治区和田县"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2023-01-20T01:20:11Z",
+              "magnitude": 4.3,
+              "place_raw": "Xinjiang-Xizang border region",
+              "place_zh": "新疆维吾尔自治区和田县",
+              "distance_km": 60.6,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆和田地区和田县",
+            "lat": 35.84,
+            "lon": 79.93,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-01-20T01:17:00Z",
+              "end_time": "2023-01-20T01:23:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "新疆维吾尔自治区",
+              "city": "和田县",
+              "district": "和田县",
+              "adcode": "",
+              "standard_name": "新疆维吾尔自治区和田县",
+              "source": "nominatim"
+            },
+            "standard_location": "新疆维吾尔自治区和田县"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.3,
+          "operator": "eq",
+          "expected_value": 3.2,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2023-01-20T01:20:11Z",
+              "magnitude": 4.3,
+              "place_raw": "Xinjiang-Xizang border region",
+              "place_zh": "新疆维吾尔自治区和田县",
+              "distance_km": 60.6,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "contradicted"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆和田地区和田县",
+            "lat": 35.84,
+            "lon": 79.93,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-01-20T01:20:00Z",
+              "end_time": "2023-01-20T01:20:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.2
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆和田地区和田县",
+            "lat": 35.84,
+            "lon": 79.93,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-01-20T01:20:00Z",
+              "end_time": "2023-01-20T01:20:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 25,
+      "input_text": "北京时间2023年5月24日3时21分在新疆阿克苏地区沙雅县（北纬40.83度，东经82.6度）发生3.2级地震，震源深度21千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆阿克苏地区沙雅县",
+            "lat": 40.83,
+            "lon": 82.6,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-05-23T19:18:00Z",
+              "end_time": "2023-05-23T19:24:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.2
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆阿克苏地区沙雅县",
+            "lat": 40.83,
+            "lon": 82.6,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-05-23T19:18:00Z",
+              "end_time": "2023-05-23T19:24:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆阿克苏地区沙雅县",
+            "lat": 40.83,
+            "lon": 82.6,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-05-24T03:21:00Z",
+              "end_time": "2023-05-24T03:21:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.2
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆阿克苏地区沙雅县",
+            "lat": 40.83,
+            "lon": 82.6,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-05-24T03:21:00Z",
+              "end_time": "2023-05-24T03:21:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 26,
+      "input_text": "北京时间2023年10月5日23时29分在新疆喀什地区塔什库尔干县（北纬37.58度，东经75.46度）发生3.1级地震，震源深度92千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆喀什地区塔什库尔干县",
+            "lat": 37.58,
+            "lon": 75.46,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-10-05T15:26:00Z",
+              "end_time": "2023-10-05T15:32:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.1,
+            "admin": {
+              "province": "新疆维吾尔自治区",
+              "city": "塔什库尔干塔吉克自治县",
+              "district": "塔什库尔干塔吉克自治县",
+              "adcode": "",
+              "standard_name": "新疆维吾尔自治区塔什库尔干塔吉克自治县",
+              "source": "nominatim"
+            },
+            "standard_location": "新疆维吾尔自治区塔什库尔干塔吉克自治县"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2023-10-05T15:29:01Z",
+              "magnitude": 4.4,
+              "place_raw": "118 km W of Damusi, China",
+              "place_zh": "新疆维吾尔自治区塔什库尔干塔吉克自治县",
+              "distance_km": 19.9,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆喀什地区塔什库尔干县",
+            "lat": 37.58,
+            "lon": 75.46,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.1,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-10-05T15:26:00Z",
+              "end_time": "2023-10-05T15:32:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "新疆维吾尔自治区",
+              "city": "塔什库尔干塔吉克自治县",
+              "district": "塔什库尔干塔吉克自治县",
+              "adcode": "",
+              "standard_name": "新疆维吾尔自治区塔什库尔干塔吉克自治县",
+              "source": "nominatim"
+            },
+            "standard_location": "新疆维吾尔自治区塔什库尔干塔吉克自治县"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.4,
+          "operator": "eq",
+          "expected_value": 3.1,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2023-10-05T15:29:01Z",
+              "magnitude": 4.4,
+              "place_raw": "118 km W of Damusi, China",
+              "place_zh": "新疆维吾尔自治区塔什库尔干塔吉克自治县",
+              "distance_km": 19.9,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "contradicted"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆喀什地区塔什库尔干县",
+            "lat": 37.58,
+            "lon": 75.46,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-10-05T15:29:00Z",
+              "end_time": "2023-10-05T15:29:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.1
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆喀什地区塔什库尔干县",
+            "lat": 37.58,
+            "lon": 75.46,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.1,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-10-05T15:29:00Z",
+              "end_time": "2023-10-05T15:29:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 27,
+      "input_text": "北京时间2023年1月7日19时21分在台湾花莲县（北纬23.54度，东经121.33度）发生4级地震，震源深度14千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾花莲县",
+            "lat": 23.54,
+            "lon": 121.33,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-01-07T11:18:00Z",
+              "end_time": "2023-01-07T11:24:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.0,
+            "admin": {
+              "province": "",
+              "city": "花莲县",
+              "district": "花莲县",
+              "adcode": "",
+              "standard_name": "花莲县",
+              "source": "nominatim"
+            },
+            "standard_location": "花莲县"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2023-01-07T11:21:26Z",
+              "magnitude": 4.2,
+              "place_raw": "51 km SSW of Hualien City, Taiwan",
+              "place_zh": "花莲县",
+              "distance_km": 5.5,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾花莲县",
+            "lat": 23.54,
+            "lon": 121.33,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 4.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-01-07T11:18:00Z",
+              "end_time": "2023-01-07T11:24:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "",
+              "city": "花莲县",
+              "district": "花莲县",
+              "adcode": "",
+              "standard_name": "花莲县",
+              "source": "nominatim"
+            },
+            "standard_location": "花莲县"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.2,
+          "operator": "eq",
+          "expected_value": 4.0,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2023-01-07T11:21:26Z",
+              "magnitude": 4.2,
+              "place_raw": "51 km SSW of Hualien City, Taiwan",
+              "place_zh": "花莲县",
+              "distance_km": 5.5,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾花莲县",
+            "lat": 23.54,
+            "lon": 121.33,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-01-07T11:21:00Z",
+              "end_time": "2023-01-07T11:21:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.0
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾花莲县",
+            "lat": 23.54,
+            "lon": 121.33,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 4.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-01-07T11:21:00Z",
+              "end_time": "2023-01-07T11:21:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 28,
+      "input_text": "北京时间2023年1月1日21时2分在新疆喀什地区叶城县（北纬36.77度，东经77.08度）发生4.2级地震，震源深度101千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆喀什地区叶城县",
+            "lat": 36.77,
+            "lon": 77.08,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-01-01T12:59:00Z",
+              "end_time": "2023-01-01T13:05:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.2,
+            "admin": {
+              "province": "新疆维吾尔自治区",
+              "city": "岑岭县",
+              "district": "永康镇",
+              "adcode": "",
+              "standard_name": "新疆维吾尔自治区岑岭县永康镇",
+              "source": "nominatim"
+            },
+            "standard_location": "新疆维吾尔自治区岑岭县永康镇"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2023-01-01T13:02:57Z",
+              "magnitude": 4.3,
+              "place_raw": "Kashmir-Xinjiang border region",
+              "place_zh": "新疆维吾尔自治区岑岭县永康镇",
+              "distance_km": 11.6,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆喀什地区叶城县",
+            "lat": 36.77,
+            "lon": 77.08,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 4.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-01-01T12:59:00Z",
+              "end_time": "2023-01-01T13:05:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "新疆维吾尔自治区",
+              "city": "岑岭县",
+              "district": "永康镇",
+              "adcode": "",
+              "standard_name": "新疆维吾尔自治区岑岭县永康镇",
+              "source": "nominatim"
+            },
+            "standard_location": "新疆维吾尔自治区岑岭县永康镇"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.3,
+          "operator": "eq",
+          "expected_value": 4.2,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2023-01-01T13:02:57Z",
+              "magnitude": 4.3,
+              "place_raw": "Kashmir-Xinjiang border region",
+              "place_zh": "新疆维吾尔自治区岑岭县永康镇",
+              "distance_km": 11.6,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆喀什地区叶城县",
+            "lat": 36.77,
+            "lon": 77.08,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-01-01T13:02:00Z",
+              "end_time": "2023-01-01T13:02:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.2
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆喀什地区叶城县",
+            "lat": 36.77,
+            "lon": 77.08,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 4.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-01-01T13:02:00Z",
+              "end_time": "2023-01-01T13:02:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 29,
+      "input_text": "北京时间2023年2月3日20时4分在青海海西州德令哈市（北纬37.02度，东经96.94度）发生4.9级地震，震源深度10千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "青海海西州德令哈市",
+            "lat": 37.02,
+            "lon": 96.94,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-02-03T12:01:00Z",
+              "end_time": "2023-02-03T12:07:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.9,
+            "admin": {
+              "province": "青海省",
+              "city": "德令哈市",
+              "district": "",
+              "adcode": "",
+              "standard_name": "青海省德令哈市",
+              "source": "nominatim"
+            },
+            "standard_location": "青海省德令哈市"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2023-02-03T12:04:19Z",
+              "magnitude": 5,
+              "place_raw": "northern Qinghai, China",
+              "place_zh": "青海省德令哈市",
+              "distance_km": 3.9,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "青海海西州德令哈市",
+            "lat": 37.02,
+            "lon": 96.94,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 4.9,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-02-03T12:01:00Z",
+              "end_time": "2023-02-03T12:07:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "青海省",
+              "city": "德令哈市",
+              "district": "",
+              "adcode": "",
+              "standard_name": "青海省德令哈市",
+              "source": "nominatim"
+            },
+            "standard_location": "青海省德令哈市"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 5.0,
+          "operator": "eq",
+          "expected_value": 4.9,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2023-02-03T12:04:19Z",
+              "magnitude": 5,
+              "place_raw": "northern Qinghai, China",
+              "place_zh": "青海省德令哈市",
+              "distance_km": 3.9,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "青海海西州德令哈市",
+            "lat": 37.02,
+            "lon": 96.94,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2023-02-03T12:04:00Z",
+              "end_time": "2023-02-03T12:04:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.9
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "青海海西州德令哈市",
+            "lat": 37.02,
+            "lon": 96.94,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 4.9,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2023-02-03T12:04:00Z",
+              "end_time": "2023-02-03T12:04:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 30,
+      "input_text": "北京时间2020年9月30日12时37分在台湾宜兰县海域（北纬24.85度，东经122.14度）发生5级地震，震源深度116千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾宜兰县海域",
+            "lat": 24.85,
+            "lon": 122.14,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2020-09-30T04:34:00Z",
+              "end_time": "2020-09-30T04:40:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 5.0,
+            "admin": {
+              "province": "",
+              "city": "",
+              "district": "",
+              "adcode": "",
+              "standard_name": "台湾",
+              "source": "nominatim"
+            },
+            "standard_location": "台湾"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2020-09-30T04:37:20Z",
+              "magnitude": 5,
+              "place_raw": "34 km SE of Jiufen, Taiwan",
+              "place_zh": "台湾",
+              "distance_km": 7.5,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾宜兰县海域",
+            "lat": 24.85,
+            "lon": 122.14,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 5.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2020-09-30T04:34:00Z",
+              "end_time": "2020-09-30T04:40:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "",
+              "city": "",
+              "district": "",
+              "adcode": "",
+              "standard_name": "台湾",
+              "source": "nominatim"
+            },
+            "standard_location": "台湾"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 5.0,
+          "operator": "eq",
+          "expected_value": 5.0,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2020-09-30T04:37:20Z",
+              "magnitude": 5,
+              "place_raw": "34 km SE of Jiufen, Taiwan",
+              "place_zh": "台湾",
+              "distance_km": 7.5,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾宜兰县海域",
+            "lat": 24.85,
+            "lon": 122.14,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2020-09-30T04:37:00Z",
+              "end_time": "2020-09-30T04:37:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 5.0
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾宜兰县海域",
+            "lat": 24.85,
+            "lon": 122.14,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 5.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2020-09-30T04:37:00Z",
+              "end_time": "2020-09-30T04:37:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 31,
+      "input_text": "北京时间2020年5月19日7时23分在内蒙古乌兰察布市兴和县（北纬40.69度，东经113.9度）发生3.2级地震，震源深度12千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "内蒙古乌兰察布市兴和县",
+            "lat": 40.69,
+            "lon": 113.9,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2020-05-18T23:20:00Z",
+              "end_time": "2020-05-18T23:26:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.2
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "内蒙古乌兰察布市兴和县",
+            "lat": 40.69,
+            "lon": 113.9,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2020-05-18T23:20:00Z",
+              "end_time": "2020-05-18T23:26:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "内蒙古乌兰察布市兴和县",
+            "lat": 40.69,
+            "lon": 113.9,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2020-05-18T23:23:00Z",
+              "end_time": "2020-05-18T23:23:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.2
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "内蒙古乌兰察布市兴和县",
+            "lat": 40.69,
+            "lon": 113.9,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2020-05-18T23:23:00Z",
+              "end_time": "2020-05-18T23:23:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 32,
+      "input_text": "北京时间2020年6月26日11时8分在新疆和田地区于田县（北纬35.73度，东经82.5度）发生3.7级地震，震源深度10千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆和田地区于田县",
+            "lat": 35.73,
+            "lon": 82.5,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2020-06-26T03:05:00Z",
+              "end_time": "2020-06-26T03:11:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.7
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆和田地区于田县",
+            "lat": 35.73,
+            "lon": 82.5,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.7,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2020-06-26T03:05:00Z",
+              "end_time": "2020-06-26T03:11:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆和田地区于田县",
+            "lat": 35.73,
+            "lon": 82.5,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2020-06-26T03:08:00Z",
+              "end_time": "2020-06-26T03:08:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.7
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆和田地区于田县",
+            "lat": 35.73,
+            "lon": 82.5,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.7,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2020-06-26T03:08:00Z",
+              "end_time": "2020-06-26T03:08:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 33,
+      "input_text": "北京时间2020年9月23日12时0分在台湾台东县（北纬23.36度，东经121.47度）发生3.7级地震，震源深度13千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾台东县",
+            "lat": 23.36,
+            "lon": 121.47,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2020-09-23T03:57:00Z",
+              "end_time": "2020-09-23T04:03:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.7,
+            "admin": {
+              "province": "",
+              "city": "台东县",
+              "district": "台东县",
+              "adcode": "",
+              "standard_name": "台东县",
+              "source": "nominatim"
+            },
+            "standard_location": "台东县"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2020-09-23T04:00:00Z",
+              "magnitude": 4.3,
+              "place_raw": "72 km S of Hualien City, Taiwan",
+              "place_zh": "台湾",
+              "distance_km": 11.8,
+              "place_match": "地名不一致",
+              "place_warning": "输入地点与USGS事件行政区不一致，请结合距离人工复核"
+            }
+          ],
+          "status": "supported",
+          "warnings": [
+            "输入地点与USGS事件行政区不一致，请结合距离人工复核"
+          ]
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾台东县",
+            "lat": 23.36,
+            "lon": 121.47,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 3.7,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2020-09-23T03:57:00Z",
+              "end_time": "2020-09-23T04:03:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "",
+              "city": "台东县",
+              "district": "台东县",
+              "adcode": "",
+              "standard_name": "台东县",
+              "source": "nominatim"
+            },
+            "standard_location": "台东县"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.3,
+          "operator": "eq",
+          "expected_value": 3.7,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2020-09-23T04:00:00Z",
+              "magnitude": 4.3,
+              "place_raw": "72 km S of Hualien City, Taiwan",
+              "place_zh": "台湾",
+              "distance_km": 11.8,
+              "place_match": "地名不一致",
+              "place_warning": "输入地点与USGS事件行政区不一致，请结合距离人工复核"
+            }
+          ],
+          "warnings": [
+            "输入地点与USGS事件行政区不一致，请结合距离人工复核"
+          ],
+          "status": "contradicted"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾台东县",
+            "lat": 23.36,
+            "lon": 121.47,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2020-09-23T03:57:00Z",
+              "end_time": "2020-09-23T04:03:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.7
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾台东县",
+            "lat": 23.36,
+            "lon": 121.47,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 3.7,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2020-09-23T04:00:00Z",
+              "end_time": "2020-09-23T04:00:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "completed_claims": [
+            "occurrence"
+          ],
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 34,
+      "input_text": "北京时间2020年7月23日8时10分在西藏那曲市尼玛县（北纬32.96度，东经87.06度）发生4.1级地震，震源深度7千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "西藏那曲市尼玛县",
+            "lat": 32.96,
+            "lon": 87.06,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2020-07-23T00:07:00Z",
+              "end_time": "2020-07-23T00:13:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.1
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "西藏那曲市尼玛县",
+            "lat": 32.96,
+            "lon": 87.06,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 4.1,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2020-07-23T00:07:00Z",
+              "end_time": "2020-07-23T00:13:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "西藏那曲市尼玛县",
+            "lat": 32.96,
+            "lon": 87.06,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2020-07-23T00:10:00Z",
+              "end_time": "2020-07-23T00:10:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.1
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "西藏那曲市尼玛县",
+            "lat": 32.96,
+            "lon": 87.06,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 4.1,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2020-07-23T00:10:00Z",
+              "end_time": "2020-07-23T00:10:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 35,
+      "input_text": "北京时间2020年2月25日18时44分在新疆喀什地区叶城县（北纬36.56度，东经76.91度）发生3.1级地震，震源深度104千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆喀什地区叶城县",
+            "lat": 36.56,
+            "lon": 76.91,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2020-02-25T10:41:00Z",
+              "end_time": "2020-02-25T10:47:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.1
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆喀什地区叶城县",
+            "lat": 36.56,
+            "lon": 76.91,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.1,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2020-02-25T10:41:00Z",
+              "end_time": "2020-02-25T10:47:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆喀什地区叶城县",
+            "lat": 36.56,
+            "lon": 76.91,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2020-02-25T10:44:00Z",
+              "end_time": "2020-02-25T10:44:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.1
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆喀什地区叶城县",
+            "lat": 36.56,
+            "lon": 76.91,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.1,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2020-02-25T10:44:00Z",
+              "end_time": "2020-02-25T10:44:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 36,
+      "input_text": "北京时间2016年5月30日10时52分在台湾花莲县海域（北纬24.17度，东经121.82度）发生4.1级地震，震源深度4千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾花莲县海域",
+            "lat": 24.17,
+            "lon": 121.82,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2016-05-30T02:49:00Z",
+              "end_time": "2016-05-30T02:55:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.1,
+            "admin": {
+              "province": "",
+              "city": "",
+              "district": "",
+              "adcode": "",
+              "standard_name": "台湾",
+              "source": "nominatim"
+            },
+            "standard_location": "台湾"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2016-05-30T02:52:47Z",
+              "magnitude": 4.5,
+              "place_raw": "21 km NE of Hualien City, Taiwan",
+              "place_zh": "台湾",
+              "distance_km": 8.7,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾花莲县海域",
+            "lat": 24.17,
+            "lon": 121.82,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 4.1,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2016-05-30T02:49:00Z",
+              "end_time": "2016-05-30T02:55:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "",
+              "city": "",
+              "district": "",
+              "adcode": "",
+              "standard_name": "台湾",
+              "source": "nominatim"
+            },
+            "standard_location": "台湾"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.5,
+          "operator": "eq",
+          "expected_value": 4.1,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2016-05-30T02:52:47Z",
+              "magnitude": 4.5,
+              "place_raw": "21 km NE of Hualien City, Taiwan",
+              "place_zh": "台湾",
+              "distance_km": 8.7,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾花莲县海域",
+            "lat": 24.17,
+            "lon": 121.82,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2016-05-30T02:52:00Z",
+              "end_time": "2016-05-30T02:52:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.1
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾花莲县海域",
+            "lat": 24.17,
+            "lon": 121.82,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 4.1,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2016-05-30T02:52:00Z",
+              "end_time": "2016-05-30T02:52:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 37,
+      "input_text": "北京时间2015年10月9日9时7分在新疆维吾尔自治区和田地区皮山县（北纬37.52度，东经77.92度）发生3.7级地震，震源深度10千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区和田地区皮山县",
+            "lat": 37.52,
+            "lon": 77.92,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2015-10-09T01:04:00Z",
+              "end_time": "2015-10-09T01:10:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.7,
+            "admin": {
+              "province": "新疆维吾尔自治区",
+              "city": "皮山县",
+              "district": "皮山县",
+              "adcode": "",
+              "standard_name": "新疆维吾尔自治区皮山县",
+              "source": "nominatim"
+            },
+            "standard_location": "新疆维吾尔自治区皮山县"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2015-10-09T01:07:35Z",
+              "magnitude": 4.2,
+              "place_raw": "64 km WNW of Zangguy, China",
+              "place_zh": "新疆维吾尔自治区皮山县",
+              "distance_km": 15.2,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区和田地区皮山县",
+            "lat": 37.52,
+            "lon": 77.92,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.7,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2015-10-09T01:04:00Z",
+              "end_time": "2015-10-09T01:10:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "新疆维吾尔自治区",
+              "city": "皮山县",
+              "district": "皮山县",
+              "adcode": "",
+              "standard_name": "新疆维吾尔自治区皮山县",
+              "source": "nominatim"
+            },
+            "standard_location": "新疆维吾尔自治区皮山县"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.2,
+          "operator": "eq",
+          "expected_value": 3.7,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2015-10-09T01:07:35Z",
+              "magnitude": 4.2,
+              "place_raw": "64 km WNW of Zangguy, China",
+              "place_zh": "新疆维吾尔自治区皮山县",
+              "distance_km": 15.2,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区和田地区皮山县",
+            "lat": 37.52,
+            "lon": 77.92,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2015-10-09T01:07:00Z",
+              "end_time": "2015-10-09T01:07:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.7
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区和田地区皮山县",
+            "lat": 37.52,
+            "lon": 77.92,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.7,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2015-10-09T01:07:00Z",
+              "end_time": "2015-10-09T01:07:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 38,
+      "input_text": "北京时间2015年12月25日3时52分在新疆维吾尔自治区克孜勒苏柯尔克孜自治州乌恰县（北纬40.02度，东经75.89度）发生3.7级地震，震源深度10千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区克孜勒苏柯尔克孜自治州乌恰县",
+            "lat": 40.02,
+            "lon": 75.89,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2015-12-24T19:49:00Z",
+              "end_time": "2015-12-24T19:55:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.7,
+            "admin": {
+              "province": "新疆维吾尔自治区",
+              "city": "乌恰县",
+              "district": "乌恰县",
+              "adcode": "",
+              "standard_name": "新疆维吾尔自治区乌恰县",
+              "source": "nominatim"
+            },
+            "standard_location": "新疆维吾尔自治区乌恰县"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2015-12-24T19:52:59Z",
+              "magnitude": 4,
+              "place_raw": "53 km NNW of Kashgar, China",
+              "place_zh": "新疆维吾尔自治区乌恰县",
+              "distance_km": 12.5,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区克孜勒苏柯尔克孜自治州乌恰县",
+            "lat": 40.02,
+            "lon": 75.89,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.7,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2015-12-24T19:49:00Z",
+              "end_time": "2015-12-24T19:55:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "新疆维吾尔自治区",
+              "city": "乌恰县",
+              "district": "乌恰县",
+              "adcode": "",
+              "standard_name": "新疆维吾尔自治区乌恰县",
+              "source": "nominatim"
+            },
+            "standard_location": "新疆维吾尔自治区乌恰县"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.0,
+          "operator": "eq",
+          "expected_value": 3.7,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2015-12-24T19:52:59Z",
+              "magnitude": 4,
+              "place_raw": "53 km NNW of Kashgar, China",
+              "place_zh": "新疆维吾尔自治区乌恰县",
+              "distance_km": 12.5,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区克孜勒苏柯尔克孜自治州乌恰县",
+            "lat": 40.02,
+            "lon": 75.89,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2015-12-24T19:52:00Z",
+              "end_time": "2015-12-24T19:52:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.7
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区克孜勒苏柯尔克孜自治州乌恰县",
+            "lat": 40.02,
+            "lon": 75.89,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.7,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2015-12-24T19:52:00Z",
+              "end_time": "2015-12-24T19:52:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 39,
+      "input_text": "北京时间2015年11月2日5时9分在台湾台东县附近海域（北纬22.8度，东经121.65度）发生5.6级地震，震源深度10千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾台东县附近海域",
+            "lat": 22.8,
+            "lon": 121.65,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2015-11-01T21:06:00Z",
+              "end_time": "2015-11-01T21:12:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 5.6,
+            "admin": {
+              "province": "",
+              "city": "",
+              "district": "",
+              "adcode": "",
+              "standard_name": "台湾",
+              "source": "nominatim"
+            },
+            "standard_location": "台湾"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2015-11-01T21:09:40Z",
+              "magnitude": 5.5,
+              "place_raw": "125 km NE of Hengchun, Taiwan",
+              "place_zh": "台湾",
+              "distance_km": 5.1,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "台湾台东县附近海域",
+            "lat": 22.8,
+            "lon": 121.65,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 5.6,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2015-11-01T21:06:00Z",
+              "end_time": "2015-11-01T21:12:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "",
+              "city": "",
+              "district": "",
+              "adcode": "",
+              "standard_name": "台湾",
+              "source": "nominatim"
+            },
+            "standard_location": "台湾"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 5.5,
+          "operator": "eq",
+          "expected_value": 5.6,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2015-11-01T21:09:40Z",
+              "magnitude": 5.5,
+              "place_raw": "125 km NE of Hengchun, Taiwan",
+              "place_zh": "台湾",
+              "distance_km": 5.1,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾台东县附近海域",
+            "lat": 22.8,
+            "lon": 121.65,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2015-11-01T21:09:00Z",
+              "end_time": "2015-11-01T21:09:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 5.6
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "台湾台东县附近海域",
+            "lat": 22.8,
+            "lon": 121.65,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 5.6,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2015-11-01T21:09:00Z",
+              "end_time": "2015-11-01T21:09:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 40,
+      "input_text": "北京时间2015年8月6日3时16分在西藏自治区阿里地区普兰县（北纬30.52度，东经80.75度）发生3.2级地震，震源深度8千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "西藏自治区阿里地区普兰县",
+            "lat": 30.52,
+            "lon": 80.75,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2015-08-05T19:13:00Z",
+              "end_time": "2015-08-05T19:19:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.2,
+            "admin": {
+              "province": "西藏自治区",
+              "city": "普兰县",
+              "district": "普兰县",
+              "adcode": "",
+              "standard_name": "西藏自治区普兰县",
+              "source": "nominatim"
+            },
+            "standard_location": "西藏自治区普兰县"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2015-08-05T19:15:56Z",
+              "magnitude": 4.1,
+              "place_raw": "60 km NNW of Dh?rchula, India",
+              "place_zh": "北安恰尔邦",
+              "distance_km": 43.2,
+              "place_match": "地名不一致",
+              "place_warning": "输入地点与USGS事件行政区不一致，请结合距离人工复核"
+            }
+          ],
+          "status": "supported",
+          "warnings": [
+            "输入地点与USGS事件行政区不一致，请结合距离人工复核"
+          ]
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "西藏自治区阿里地区普兰县",
+            "lat": 30.52,
+            "lon": 80.75,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2015-08-05T19:13:00Z",
+              "end_time": "2015-08-05T19:19:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "西藏自治区",
+              "city": "普兰县",
+              "district": "普兰县",
+              "adcode": "",
+              "standard_name": "西藏自治区普兰县",
+              "source": "nominatim"
+            },
+            "standard_location": "西藏自治区普兰县"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.1,
+          "operator": "eq",
+          "expected_value": 3.2,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2015-08-05T19:15:56Z",
+              "magnitude": 4.1,
+              "place_raw": "60 km NNW of Dh?rchula, India",
+              "place_zh": "北安恰尔邦",
+              "distance_km": 43.2,
+              "place_match": "地名不一致",
+              "place_warning": "输入地点与USGS事件行政区不一致，请结合距离人工复核"
+            }
+          ],
+          "warnings": [
+            "输入地点与USGS事件行政区不一致，请结合距离人工复核"
+          ],
+          "status": "contradicted"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "西藏自治区阿里地区普兰县",
+            "lat": 30.52,
+            "lon": 80.75,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2015-08-05T19:16:00Z",
+              "end_time": "2015-08-05T19:16:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.2
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "西藏自治区阿里地区普兰县",
+            "lat": 30.52,
+            "lon": 80.75,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2015-08-05T19:16:00Z",
+              "end_time": "2015-08-05T19:16:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 41,
+      "input_text": "北京时间2015年8月31日8时27分在新疆维吾尔自治区喀什地区叶城县（北纬35.57度，东经77.53度）发生3.8级地震，震源深度61千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区喀什地区叶城县",
+            "lat": 35.57,
+            "lon": 77.53,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2015-08-31T00:24:00Z",
+              "end_time": "2015-08-31T00:30:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.8,
+            "admin": {
+              "province": "新疆维吾尔自治区",
+              "city": "岑岭县",
+              "district": "宝玉镇",
+              "adcode": "",
+              "standard_name": "新疆维吾尔自治区岑岭县宝玉镇",
+              "source": "nominatim"
+            },
+            "standard_location": "新疆维吾尔自治区岑岭县宝玉镇"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2015-08-31T00:27:50Z",
+              "magnitude": 4.3,
+              "place_raw": "116 km NNE of Thang, India",
+              "place_zh": "新疆维吾尔自治区岑岭县宝玉镇",
+              "distance_km": 29.8,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区喀什地区叶城县",
+            "lat": 35.57,
+            "lon": 77.53,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.8,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2015-08-31T00:24:00Z",
+              "end_time": "2015-08-31T00:30:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "新疆维吾尔自治区",
+              "city": "岑岭县",
+              "district": "宝玉镇",
+              "adcode": "",
+              "standard_name": "新疆维吾尔自治区岑岭县宝玉镇",
+              "source": "nominatim"
+            },
+            "standard_location": "新疆维吾尔自治区岑岭县宝玉镇"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.3,
+          "operator": "eq",
+          "expected_value": 3.8,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2015-08-31T00:27:50Z",
+              "magnitude": 4.3,
+              "place_raw": "116 km NNE of Thang, India",
+              "place_zh": "新疆维吾尔自治区岑岭县宝玉镇",
+              "distance_km": 29.8,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区喀什地区叶城县",
+            "lat": 35.57,
+            "lon": 77.53,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2015-08-31T00:27:00Z",
+              "end_time": "2015-08-31T00:27:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.8
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区喀什地区叶城县",
+            "lat": 35.57,
+            "lon": 77.53,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.8,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2015-08-31T00:27:00Z",
+              "end_time": "2015-08-31T00:27:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 42,
+      "input_text": "北京时间2015年4月12日14时48分在四川省宜宾市珙县（北纬28.15度，东经104.72度）发生3.2级地震，震源深度8千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "四川省宜宾市珙县",
+            "lat": 28.15,
+            "lon": 104.72,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2015-04-12T06:45:00Z",
+              "end_time": "2015-04-12T06:51:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.2
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "四川省宜宾市珙县",
+            "lat": 28.15,
+            "lon": 104.72,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 3.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2015-04-12T06:45:00Z",
+              "end_time": "2015-04-12T06:51:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "四川省宜宾市珙县",
+            "lat": 28.15,
+            "lon": 104.72,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2015-04-12T06:48:00Z",
+              "end_time": "2015-04-12T06:48:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.2
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "四川省宜宾市珙县",
+            "lat": 28.15,
+            "lon": 104.72,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 3.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2015-04-12T06:48:00Z",
+              "end_time": "2015-04-12T06:48:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 43,
+      "input_text": "北京时间2015年2月5日3时53分在西藏自治区阿里地区改则县（北纬32.58度，东经83.5度）发生3.6级地震，震源深度6千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "西藏自治区阿里地区改则县",
+            "lat": 32.58,
+            "lon": 83.5,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2015-02-04T19:50:00Z",
+              "end_time": "2015-02-04T19:56:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.6
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "西藏自治区阿里地区改则县",
+            "lat": 32.58,
+            "lon": 83.5,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.6,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2015-02-04T19:50:00Z",
+              "end_time": "2015-02-04T19:56:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "西藏自治区阿里地区改则县",
+            "lat": 32.58,
+            "lon": 83.5,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2015-02-04T19:53:00Z",
+              "end_time": "2015-02-04T19:53:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.6
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "西藏自治区阿里地区改则县",
+            "lat": 32.58,
+            "lon": 83.5,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.6,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2015-02-04T19:53:00Z",
+              "end_time": "2015-02-04T19:53:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 44,
+      "input_text": "北京时间2016年5月18日22时59分在四川雅安市石棉县（北纬29.02度，东经102.25度）发生3.7级地震，震源深度19千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "四川雅安市石棉县",
+            "lat": 29.02,
+            "lon": 102.25,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2016-05-18T14:56:00Z",
+              "end_time": "2016-05-18T15:02:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.7
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "四川雅安市石棉县",
+            "lat": 29.02,
+            "lon": 102.25,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.7,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2016-05-18T14:56:00Z",
+              "end_time": "2016-05-18T15:02:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "四川雅安市石棉县",
+            "lat": 29.02,
+            "lon": 102.25,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2016-05-18T14:59:00Z",
+              "end_time": "2016-05-18T14:59:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.7
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "四川雅安市石棉县",
+            "lat": 29.02,
+            "lon": 102.25,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.7,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2016-05-18T14:59:00Z",
+              "end_time": "2016-05-18T14:59:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 45,
+      "input_text": "北京时间2016年9月10日10时44分在四川宜宾市珙县（北纬28.11度，东经104.83度）发生3.7级地震，震源深度13千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "四川宜宾市珙县",
+            "lat": 28.11,
+            "lon": 104.83,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2016-09-10T02:41:00Z",
+              "end_time": "2016-09-10T02:47:00Z"
+            },
+            "location_source": "input_text",
+            "value_max": null,
+            "reported_magnitude": 3.7
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "四川宜宾市珙县",
+            "lat": 28.11,
+            "lon": 104.83,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 3.7,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2016-09-10T02:41:00Z",
+              "end_time": "2016-09-10T02:47:00Z"
+            },
+            "location_source": "input_text",
+            "value_max": null
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "四川宜宾市珙县",
+            "lat": 28.11,
+            "lon": 104.83,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2016-09-10T02:41:00Z",
+              "end_time": "2016-09-10T02:47:00Z"
+            },
+            "location_source": "input_text",
+            "value_max": null,
+            "reported_magnitude": 3.7
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "四川宜宾市珙县",
+            "lat": 28.11,
+            "lon": 104.83,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 3.7,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2016-09-10T02:44:00Z",
+              "end_time": "2016-09-10T02:44:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "completed_claims": [
+            "occurrence"
+          ],
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 46,
+      "input_text": "北京时间2016年11月26日4时37分在新疆克孜勒苏州阿克陶县（北纬39.22度，东经73.84度）发生3.3级地震，震源深度5千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆克孜勒苏州阿克陶县",
+            "lat": 39.22,
+            "lon": 73.84,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2016-11-25T20:34:00Z",
+              "end_time": "2016-11-25T20:40:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.3,
+            "admin": {
+              "province": "新疆维吾尔自治区",
+              "city": "阿克陶县",
+              "district": "阿克陶县",
+              "adcode": "",
+              "standard_name": "新疆维吾尔自治区阿克陶县",
+              "source": "nominatim"
+            },
+            "standard_location": "新疆维吾尔自治区阿克陶县"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2016-11-25T20:37:30Z",
+              "magnitude": 4.2,
+              "place_raw": "121 km N of Murghob, Tajikistan",
+              "place_zh": "新疆维吾尔自治区阿克陶县",
+              "distance_km": 13.9,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆克孜勒苏州阿克陶县",
+            "lat": 39.22,
+            "lon": 73.84,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.3,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2016-11-25T20:34:00Z",
+              "end_time": "2016-11-25T20:40:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "新疆维吾尔自治区",
+              "city": "阿克陶县",
+              "district": "阿克陶县",
+              "adcode": "",
+              "standard_name": "新疆维吾尔自治区阿克陶县",
+              "source": "nominatim"
+            },
+            "standard_location": "新疆维吾尔自治区阿克陶县"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.2,
+          "operator": "eq",
+          "expected_value": 3.3,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2016-11-25T20:37:30Z",
+              "magnitude": 4.2,
+              "place_raw": "121 km N of Murghob, Tajikistan",
+              "place_zh": "新疆维吾尔自治区阿克陶县",
+              "distance_km": 13.9,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "contradicted"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆克孜勒苏州阿克陶县",
+            "lat": 39.22,
+            "lon": 73.84,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2016-11-25T20:37:00Z",
+              "end_time": "2016-11-25T20:37:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.3
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆克孜勒苏州阿克陶县",
+            "lat": 39.22,
+            "lon": 73.84,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.3,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2016-11-25T20:37:00Z",
+              "end_time": "2016-11-25T20:37:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 47,
+      "input_text": "北京时间2012年3月22日11时1分在青海省海西蒙古族藏族自治州格尔木市（北纬33.26度，东经91.18度）发生3.1级地震，震源深度10千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "青海省海西蒙古族藏族自治州格尔木市",
+            "lat": 33.26,
+            "lon": 91.18,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2012-03-22T02:58:00Z",
+              "end_time": "2012-03-22T03:04:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.1
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "青海省海西蒙古族藏族自治州格尔木市",
+            "lat": 33.26,
+            "lon": 91.18,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.1,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2012-03-22T02:58:00Z",
+              "end_time": "2012-03-22T03:04:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "青海省海西蒙古族藏族自治州格尔木市",
+            "lat": 33.26,
+            "lon": 91.18,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2012-03-22T03:01:00Z",
+              "end_time": "2012-03-22T03:01:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.1
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "青海省海西蒙古族藏族自治州格尔木市",
+            "lat": 33.26,
+            "lon": 91.18,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.1,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2012-03-22T03:01:00Z",
+              "end_time": "2012-03-22T03:01:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 48,
+      "input_text": "北京时间2012年6月30日15时35分在新疆维吾尔自治区伊犁哈萨克自治州新源县（北纬43.34度，东经84.59度）发生4.3级地震，震源深度10千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区伊犁哈萨克自治州新源县",
+            "lat": 43.34,
+            "lon": 84.59,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2012-06-30T07:32:00Z",
+              "end_time": "2012-06-30T07:38:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.3,
+            "admin": {
+              "province": "新疆维吾尔自治区",
+              "city": "新源县",
+              "district": "新源县",
+              "adcode": "",
+              "standard_name": "新疆维吾尔自治区新源县",
+              "source": "nominatim"
+            },
+            "standard_location": "新疆维吾尔自治区新源县"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2012-06-30T07:35:57Z",
+              "magnitude": 4.6,
+              "place_raw": "112 km E of Xinyuan, China",
+              "place_zh": "新疆维吾尔自治区新源县",
+              "distance_km": 6.7,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区伊犁哈萨克自治州新源县",
+            "lat": 43.34,
+            "lon": 84.59,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 4.3,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2012-06-30T07:32:00Z",
+              "end_time": "2012-06-30T07:38:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "新疆维吾尔自治区",
+              "city": "新源县",
+              "district": "新源县",
+              "adcode": "",
+              "standard_name": "新疆维吾尔自治区新源县",
+              "source": "nominatim"
+            },
+            "standard_location": "新疆维吾尔自治区新源县"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.6,
+          "operator": "eq",
+          "expected_value": 4.3,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2012-06-30T07:35:57Z",
+              "magnitude": 4.6,
+              "place_raw": "112 km E of Xinyuan, China",
+              "place_zh": "新疆维吾尔自治区新源县",
+              "distance_km": 6.7,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区伊犁哈萨克自治州新源县",
+            "lat": 43.34,
+            "lon": 84.59,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2012-06-30T07:35:00Z",
+              "end_time": "2012-06-30T07:35:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 4.3
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区伊犁哈萨克自治州新源县",
+            "lat": 43.34,
+            "lon": 84.59,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 4.3,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2012-06-30T07:35:00Z",
+              "end_time": "2012-06-30T07:35:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 49,
+      "input_text": "北京时间2012年2月2日5时43分在辽宁省营口市盖州市、大石桥市、市辖区交界（北纬40.5度，东经122.4度）发生3.6级地震，震源深度9千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "辽宁省营口市盖州市、大石桥市、市辖区交界",
+            "lat": 40.5,
+            "lon": 122.4,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2012-02-01T21:40:00Z",
+              "end_time": "2012-02-01T21:46:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.6,
+            "admin": {
+              "province": "辽宁省",
+              "city": "营口市",
+              "district": "盖州市",
+              "adcode": "",
+              "standard_name": "辽宁省营口市盖州市",
+              "source": "nominatim"
+            },
+            "standard_location": "辽宁省营口市盖州市"
+          },
+          "fact_type": "occurrence",
+          "event_count": 1,
+          "sample_events": [
+            {
+              "time": "2012-02-01T21:43:32Z",
+              "magnitude": 4.3,
+              "place_raw": "20 km S of Dashiqiao, China",
+              "place_zh": "辽宁省营口市盖州市",
+              "distance_km": 7.7,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "status": "supported",
+          "warnings": []
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "辽宁省营口市盖州市、大石桥市、市辖区交界",
+            "lat": 40.5,
+            "lon": 122.4,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.6,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2012-02-01T21:40:00Z",
+              "end_time": "2012-02-01T21:46:00Z"
+            },
+            "location_source": "input_text",
+            "admin": {
+              "province": "辽宁省",
+              "city": "营口市",
+              "district": "盖州市",
+              "adcode": "",
+              "standard_name": "辽宁省营口市盖州市",
+              "source": "nominatim"
+            },
+            "standard_location": "辽宁省营口市盖州市"
+          },
+          "fact_type": "magnitude",
+          "actual_value": 4.3,
+          "operator": "eq",
+          "expected_value": 3.6,
+          "expected_value_max": null,
+          "tolerance": 0.5,
+          "sample_events": [
+            {
+              "time": "2012-02-01T21:43:32Z",
+              "magnitude": 4.3,
+              "place_raw": "20 km S of Dashiqiao, China",
+              "place_zh": "辽宁省营口市盖州市",
+              "distance_km": 7.7,
+              "place_match": "同区县",
+              "place_warning": ""
+            }
+          ],
+          "warnings": [],
+          "status": "contradicted"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "辽宁省营口市盖州市、大石桥市、市辖区交界",
+            "lat": 40.5,
+            "lon": 122.4,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2012-02-01T21:43:00Z",
+              "end_time": "2012-02-01T21:43:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.6
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "辽宁省营口市盖州市、大石桥市、市辖区交界",
+            "lat": 40.5,
+            "lon": 122.4,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.6,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2012-02-01T21:43:00Z",
+              "end_time": "2012-02-01T21:43:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    },
+    {
+      "index": 50,
+      "input_text": "北京时间2012年1月25日2时22分在新疆维吾尔自治区伊犁哈萨克自治州尼勒克县、新源县交界（北纬43.58度，东经82.99度）发生3级地震，震源深度7千米。",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区伊犁哈萨克自治州尼勒克县、新源县交界",
+            "lat": 43.58,
+            "lon": 82.99,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2012-01-24T18:19:00Z",
+              "end_time": "2012-01-24T18:25:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.0
+          },
+          "fact_type": "occurrence",
+          "event_count": 0,
+          "sample_events": [],
+          "status": "unknown",
+          "warnings": [],
+          "reason": "below_usgs_reliable_coverage",
+          "reliable_min_magnitude": 4.5
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区伊犁哈萨克自治州尼勒克县、新源县交界",
+            "lat": 43.58,
+            "lon": 82.99,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2012-01-24T18:19:00Z",
+              "end_time": "2012-01-24T18:25:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区伊犁哈萨克自治州尼勒克县、新源县交界",
+            "lat": 43.58,
+            "lon": 82.99,
+            "fact_type": "depth",
+            "polarity": null,
+            "operator": "eq",
+            "value": 7.0,
+            "value_max": null,
+            "unit": "km",
+            "time_interval": {
+              "start_time": "2012-01-24T18:19:00Z",
+              "end_time": "2012-01-24T18:25:00Z"
+            },
+            "location_source": "input_text"
+          },
+          "status": "unknown",
+          "reason": "unsupported_fact_type"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区伊犁哈萨克自治州尼勒克县、新源县交界",
+            "lat": 43.58,
+            "lon": 82.99,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2012-01-24T18:22:00Z",
+              "end_time": "2012-01-24T18:22:00Z"
+            },
+            "location_source": "input_text",
+            "reported_magnitude": 3.0
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区伊犁哈萨克自治州尼勒克县、新源县交界",
+            "lat": 43.58,
+            "lon": 82.99,
+            "fact_type": "magnitude",
+            "polarity": null,
+            "operator": "eq",
+            "value": 3.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2012-01-24T18:22:00Z",
+              "end_time": "2012-01-24T18:22:00Z"
+            },
+            "location_source": "input_text"
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "新疆维吾尔自治区伊犁哈萨克自治州尼勒克县、新源县交界",
+            "lat": 43.58,
+            "lon": 82.99,
+            "fact_type": "depth",
+            "polarity": null,
+            "operator": "eq",
+            "value": 7.0,
+            "value_max": null,
+            "unit": "km",
+            "time_interval": {
+              "start_time": "2012-01-24T18:22:00Z",
+              "end_time": "2012-01-24T18:22:00Z"
+            },
+            "location_source": "input_text"
+          }
+        ],
+        "meta": {
+          "replayed_extraction": true,
+          "location_source": "input_text"
+        }
+      }
+    }
+  ]
+}
