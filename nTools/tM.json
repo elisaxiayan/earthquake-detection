@@ -1,0 +1,231 @@
+{
+  "total": 2,
+  "items": [
+    {
+      "index": 1,
+      "input_text": "2021年7月14日，花莲县发生多次地震，最大震级5.2级",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "花莲县",
+            "lat": 23.97390865,
+            "lon": 121.6081978,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2021-07-13T16:00:00Z",
+              "end_time": "2021-07-14T16:00:00Z"
+            }
+          },
+          "fact_type": "occurrence",
+          "event_count": 5,
+          "sample_events": [
+            {
+              "time": "2021-07-13T22:52:05Z",
+              "magnitude": 5.2,
+              "place": "8 km SSE of Hualien City, Taiwan"
+            },
+            {
+              "time": "2021-07-13T22:59:24Z",
+              "magnitude": 4.7,
+              "place": "5 km SSE of Hualien City, Taiwan"
+            },
+            {
+              "time": "2021-07-13T23:14:29Z",
+              "magnitude": 4.4,
+              "place": "10 km SSE of Hualien City, Taiwan"
+            }
+          ],
+          "status": "supported"
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "花莲县",
+            "lat": 23.97390865,
+            "lon": 121.6081978,
+            "fact_type": "count",
+            "polarity": "occurred",
+            "operator": "gt",
+            "value": 1,
+            "value_max": null,
+            "unit": "events",
+            "time_interval": {
+              "start_time": "2021-07-13T16:00:00Z",
+              "end_time": "2021-07-14T16:00:00Z"
+            }
+          },
+          "fact_type": "count",
+          "actual_value": 5.0,
+          "operator": "gt",
+          "expected_value": 1.0,
+          "expected_value_max": null,
+          "sample_events": [
+            {
+              "time": "2021-07-13T22:52:05Z",
+              "magnitude": 5.2,
+              "place": "8 km SSE of Hualien City, Taiwan"
+            },
+            {
+              "time": "2021-07-13T22:59:24Z",
+              "magnitude": 4.7,
+              "place": "5 km SSE of Hualien City, Taiwan"
+            },
+            {
+              "time": "2021-07-13T23:14:29Z",
+              "magnitude": 4.4,
+              "place": "10 km SSE of Hualien City, Taiwan"
+            }
+          ],
+          "status": "supported"
+        },
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "花莲县",
+            "lat": 23.97390865,
+            "lon": 121.6081978,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 5.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2021-07-13T16:00:00Z",
+              "end_time": "2021-07-14T16:00:00Z"
+            }
+          },
+          "fact_type": "magnitude",
+          "actual_value": 5.2,
+          "operator": "eq",
+          "expected_value": 5.2,
+          "expected_value_max": null,
+          "tolerance": 0.2,
+          "sample_events": [
+            {
+              "time": "2021-07-13T22:52:05Z",
+              "magnitude": 5.2,
+              "place": "8 km SSE of Hualien City, Taiwan"
+            },
+            {
+              "time": "2021-07-13T22:59:24Z",
+              "magnitude": 4.7,
+              "place": "5 km SSE of Hualien City, Taiwan"
+            },
+            {
+              "time": "2021-07-13T23:14:29Z",
+              "magnitude": 4.4,
+              "place": "10 km SSE of Hualien City, Taiwan"
+            }
+          ],
+          "status": "supported"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "花莲县",
+            "lat": null,
+            "lon": null,
+            "fact_type": "occurrence",
+            "polarity": "occurred",
+            "operator": null,
+            "value": null,
+            "value_max": null,
+            "unit": null,
+            "time_interval": {
+              "start_time": "2021-07-14T00:00:00Z",
+              "end_time": "2021-07-14T23:59:59Z"
+            }
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "花莲县",
+            "lat": null,
+            "lon": null,
+            "fact_type": "count",
+            "polarity": "occurred",
+            "operator": "gt",
+            "value": 1,
+            "value_max": null,
+            "unit": "events",
+            "time_interval": {
+              "start_time": "2021-07-14T00:00:00Z",
+              "end_time": "2021-07-14T23:59:59Z"
+            }
+          },
+          {
+            "hazard_type": "earthquake",
+            "location": "花莲县",
+            "lat": null,
+            "lon": null,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 5.2,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2021-07-14T00:00:00Z",
+              "end_time": "2021-07-14T23:59:59Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "index": 2,
+      "input_text": "五天前四川宜宾发生7.0级大地震",
+      "results": [
+        {
+          "claim": {
+            "hazard_type": "earthquake",
+            "location": "四川宜宾",
+            "lat": 28.752354,
+            "lon": 104.642826,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 7.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-05-31T10:01:05Z",
+              "end_time": "2026-06-01T10:01:05Z"
+            }
+          },
+          "status": "unknown",
+          "reason": "no_magnitude_data_in_interval"
+        }
+      ],
+      "extraction": {
+        "claims": [
+          {
+            "hazard_type": "earthquake",
+            "location": "四川宜宾",
+            "lat": null,
+            "lon": null,
+            "fact_type": "magnitude",
+            "polarity": "occurred",
+            "operator": "eq",
+            "value": 7.0,
+            "value_max": null,
+            "unit": "Mw",
+            "time_interval": {
+              "start_time": "2026-05-31T10:01:05Z",
+              "end_time": "2026-06-01T10:01:05Z"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
+
